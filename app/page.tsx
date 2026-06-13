@@ -32,6 +32,10 @@ export default function Home() {
         </nav>
 
         <div className="heroContent">
+          <div className="statusBanner" role="status">
+            <span>Under Construction</span>
+            <p>Our full travel and tours website is coming soon.</p>
+          </div>
           <p className="eyebrow">Travel and tours made simple</p>
           <h1>Plan your next trip with Flyza Tours.</h1>
           <p className="intro">
